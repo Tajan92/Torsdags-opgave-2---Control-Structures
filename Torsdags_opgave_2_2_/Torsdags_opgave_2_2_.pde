@@ -6,11 +6,9 @@ println(age);
 String humør;
 
 if (glad == false) {
-  humør = " don't";
-  println(humør);
+  humør = " don't"; 
 } else {
   humør = "";
-  println("humør");
 }
 
 println("Hi, my name is "+name);
